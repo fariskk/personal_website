@@ -133,12 +133,12 @@ h6 {
   text-transform: uppercase;
   transition: 0.3s;
   color: #fff;
-  background: #2cbc85 ;
+  background: #031bd0 ;
   
 }
 
 .page-header .cta-btn:hover {
-  background: #67efbb;
+  background: #2b2bf0;
 }
 
 /*--------------------------------------------------------------
@@ -1237,11 +1237,11 @@ h6 {
   text-transform: uppercase;
   transition: 0.3s;
   color: #fff;
-  background:#2cbc85 ;
+  background:#1e07e8 ;
 }
 
 .hero .btn-get-started:hover {
-  background: #2cbc85;
+  background: #241cf9;
 }
 
 @media (max-width: 768px) {
