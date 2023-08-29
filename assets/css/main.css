@@ -124,8 +124,8 @@ h6 {
 
 .page-header .cta-btn {
   font-family: var(--font-primary);
-  font-weight: 400;
-  font-size: 14px;
+  font-weight: 1000;
+  font-size: 18px;
   display: inline-block;
   padding: 12px 40px;
   border-radius: 4px;
@@ -1228,8 +1228,8 @@ h6 {
 
 .hero .btn-get-started {
   font-family: var(--font-primary);
-  font-weight: 400;
-  font-size: 14px;
+  font-weight: 1000;
+  font-size: 18px;
   display: inline-block;
   padding: 12px 40px;
   border-radius: 4px;
